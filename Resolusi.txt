@@ -1,10 +1,9 @@
 Wisuda
 Belajar Git and Github
 Belajar Javascript
--Basic
--OOP
 -Lanjutan
 -dapat sertif
 belajar Vue JS
 Cari Kerja
 Umroh
+
