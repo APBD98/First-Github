@@ -1,5 +1,8 @@
 Wisuda
 Belajar Git and Github
 Belajar Javascript
+-Basic
+-OOP
+-Lanjutan
 belajar Vue JS
 Cari Kerja
